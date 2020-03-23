@@ -1,0 +1,26 @@
+html {
+ box-sizing: border-box;
+}
+*, *::before, *::after{
+    box-sizing: inherit;
+}
+a {
+    text-decoration: none;
+    color: #b9b9b9;
+}
+.header {
+    display: flex;
+    justify-content: space-between;
+}
+.container {
+    max-width: 960px;
+    margin: 0 auto;
+}
+.header__inner {
+}
+.header__logo {
+}
+.header__menu {
+}
+.header__menu-list {
+}
