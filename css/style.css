@@ -70,6 +70,7 @@ li{
     margin: 0 auto;
 }
 .slick-prev.slick-arrow{
+.slider .slick-prev.slick-arrow{
     position: absolute;
     top: 163px;
     left: 21px;
@@ -82,6 +83,7 @@ li{
     z-index: 60;
 }
 .slick-next.slick-arrow{
+.slider .slick-next.slick-arrow{
     position: absolute;
     top: 163px;
     right: 21px;
